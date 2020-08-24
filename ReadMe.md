@@ -7,6 +7,7 @@
 ```
 No.   Title:                                                                           Year:  Country:                  Genre(s):                                                         Certification:  Duration:       IMDb Rating:         User Rating:    Best
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1672  365 Days                                                                         2020   Poland                    Drama, Romance                                                    TV-MA           114 minutes     3.3  (33262 votes)   6.0                  
 1671  Coma                                                                             2019   Russia                    Action, Sci-Fi, Adventure, Fantasy                                                111 minutes     6.3  (3600 votes)    7.5                  
 1670  Travelers - Complete Series                                                      2016   Canada                    Thriller, Drama, Sci-Fi, Mystery                                  TV-MA           25 hours        8.1  (42411 votes)   9.0             *    
 1669  The Kissing Booth 2                                                              2020   UK                        Comedy, Romance                                                   TV-14           134 minutes     6.1  (7062 votes)    7.0                  
