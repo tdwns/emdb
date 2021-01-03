@@ -1,4 +1,5 @@
 # My Movie Database
+![](cover.jpg)
 ##### How to setup:
 - Clone (or download as zip)
 - Download and install EMDB: https://www.emdb.eu/downloads.html
