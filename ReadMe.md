@@ -1,13 +1,17 @@
 # My Movie Database
 ![](cover.jpg)
+##### Me
+[IMDB](https://www.imdb.com/user/ur35750288/)
+[TV Time](https://www.tvtime.com/en/user/16664345/profile)
 ##### How to setup:
 - Clone (or download as zip)
 - Download and install EMDB: https://www.emdb.eu/downloads.html
-- Open EMDB → Options → Database → Browse and select this (cloned) folder (EMDB)
+- Open EMDB → Options → Database → Browse and select this (cloned/downloaded) folder (EMDB)
 #### List of movies I've watched (with ratings):
 ```
 No.   Best User Rating:    IMDb Rating:         Year: Title:                                                                           Country:                  Genres:                                                           Certification:  Runtime:       
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1758       8.0             5.9  (20491 votes)   2021  Reminiscence                                                                     United States             Mystery, Romance, Sci-Fi                                          PG-13           116 minutes    
 1757  *    9.0             8.1  (11367 votes)   2021  CODA                                                                             United States             Drama, Music                                                      PG-13           111 minutes    
 1756       7.0             5.5  (7951 votes)    2021  Snake Eyes                                                                       Canada                    Action, Adventure, Fantasy                                        PG-13           121 minutes    
 1755       8.0             7.6  (90663 votes)   2021  The Suicide Squad                                                                United States             Action, Comedy, Adventure                                         R               132 minutes    
