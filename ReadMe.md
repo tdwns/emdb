@@ -1,6 +1,7 @@
 # My Movie Database
 ![](cover.jpg)
-##### Find me:<br/>[IMDB](https://www.imdb.com/user/ur35750288/)<br/>[TV Time](https://www.tvtime.com/en/user/16664345/profile)<br/>##### Interested in PC Games? [PC games I played!](https://github.com/tdwns/games)
+##### Find me:<br/>[IMDB](https://www.imdb.com/user/ur35750288/)<br/>[TV Time](https://www.tvtime.com/en/user/16664345/profile)
+##### Interested in PC Games? [PC games I played!](https://github.com/tdwns/games)
 ##### How to setup:
 - Clone (or download as zip)
 - Download and install EMDB: https://www.emdb.eu/downloads.html
