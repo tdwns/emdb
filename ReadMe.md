@@ -1,12 +1,13 @@
 # My Movie Database
 ![](cover.jpg)
-##### Find me:<br/>[IMDB](https://www.imdb.com/user/ur35750288/)<br/>[TV Time](https://www.tvtime.com/en/user/16664345/profile)
+##### Find me:<br/><br/>[IMDB](https://www.imdb.com/user/ur35750288/)<br/>[TV Time](https://www.tvtime.com/en/user/16664345/profile)
 ##### Interested in PC Games? [PC games I played!](https://github.com/tdwns/games)
 ##### How to setup:
 - Clone (or download as zip)
 - Download and install EMDB: https://www.emdb.eu/downloads.html
 - Open EMDB → Options → Database → Browse and select this (cloned/downloaded) folder (EMDB)
 #### List of movies & TV series I've watched (with ratings):
+`* marked - best movies / TV series ❤️`
 ```
 No.   Best User Rating:    IMDb Rating:         Year: Title:                                                                           Country:                  Genres:                                                           Certification:  Runtime:       
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
