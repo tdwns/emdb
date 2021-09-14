@@ -1,16 +1,16 @@
 # My Movie Database
 ![](cover.jpg)
-##### Me
-[IMDB](https://www.imdb.com/user/ur35750288/)
-[TV Time](https://www.tvtime.com/en/user/16664345/profile)
+##### Find me:<br/>[IMDB](https://www.imdb.com/user/ur35750288/)<br/>[TV Time](https://www.tvtime.com/en/user/16664345/profile)<br/>##### Interested in PC Games? [PC games I played!](https://github.com/tdwns/games)
 ##### How to setup:
 - Clone (or download as zip)
 - Download and install EMDB: https://www.emdb.eu/downloads.html
 - Open EMDB → Options → Database → Browse and select this (cloned/downloaded) folder (EMDB)
-#### List of movies I've watched (with ratings):
+#### List of movies & TV series I've watched (with ratings):
 ```
 No.   Best User Rating:    IMDb Rating:         Year: Title:                                                                           Country:                  Genres:                                                           Certification:  Runtime:       
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1760       7.0             6.1  (7068 votes)    2021  The Protege                                                                      United States             Action, Crime, Thriller                                           R               109 minutes    
+1759       7.0             5.6  (20191 votes)   2021  Jolt                                                                             United States             Action, Thriller                                                  R               91 minutes     
 1758       8.0             5.9  (20491 votes)   2021  Reminiscence                                                                     United States             Mystery, Romance, Sci-Fi                                          PG-13           116 minutes    
 1757  *    9.0             8.1  (11367 votes)   2021  CODA                                                                             United States             Drama, Music                                                      PG-13           111 minutes    
 1756       7.0             5.5  (7951 votes)    2021  Snake Eyes                                                                       Canada                    Action, Adventure, Fantasy                                        PG-13           121 minutes    
