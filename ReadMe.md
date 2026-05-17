@@ -1,7 +1,30 @@
+
 # My Movie Database
 ![](cover.jpg)
 ##### Find me:<br/><br/>[IMDB](https://www.imdb.com/user/ur35750288/)<br/>[TV Time](https://www.tvtime.com/en/user/16664345/profile)
 ##### Interested in PC Games? [PC games I played!](https://github.com/tdwns/games)
+
+---
+
+## ⚠️ This database has been retired
+
+For many years, EMDB was more than just a movie tracker to me.
+
+Every rating here carries a memory — late-night watches, comfort movies during difficult times, random TV binges, films that changed me, and movies I completely forgot about until scrolling through this list again.
+
+This repository slowly became a timeline of my life without me even realizing it.
+
+But after all these years, I've decided to move on to Letterboxd, and because of that, this database will no longer be updated.
+
+Leaving EMDB behind honestly feels a little sad.  
+There’s something special about old software you quietly use for years while life keeps changing around you.
+
+So I'll keep this repo public — not as an active project anymore, but as an archive of a huge part of my movie journey ❤️
+
+And genuinely, thank you to the developers of EMDB for creating something that stayed with me for so long.
+
+---
+
 ##### How to setup:
 - Clone (or download as zip)
 - Download and install EMDB: https://www.emdb.eu/downloads.html
